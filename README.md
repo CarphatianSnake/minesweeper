@@ -14,4 +14,5 @@ In the game, mines are scattered throughout a board, which is divided into cells
 
 - JavaScript
 - HTML
-- CSS
+- SCSS
+- Webpack
